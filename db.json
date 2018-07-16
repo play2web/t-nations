@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "name": "My Task",
+      "finished": true,
+      "id": 1
+    },
+    {
+      "name": "Task Mon Jul 16 2018 08:27:38 GMT+0200 (Central Europe Daylight Time)",
+      "finished": false,
+      "id": 2
+    },
+    {
+      "name": "Task Mon Jul 16 2018 08:33:28 GMT+0200 (Central Europe Daylight Time)",
+      "finished": false,
+      "id": 3
+    }
+  ]
+}

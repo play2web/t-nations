@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {
+      "name": "My Task",
+      "finished": true,
+      "id": 1
+    }
+  ]
+}
